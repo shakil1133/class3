@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+height: 80px;
+display: flex;
+
+}
+.Logo{
+width: 20%;
+background-color: blueviolet;
+text-align: center;
+color: white;
+}
+.menu{
+width: 80%;
+background-color: aqua;
+text-align: center;
+color: white;
+}
+.header{
+    background: rebeccapurple;  color: white;
+    text-align: center;
+    height: 50px;
+}
+article{
+display: flex;
+}
+.left{
+width: 25%;
+height: 300px;
+background-color: rgba(23, 23, 235, 0.76);
+text-align: center;
+
+}
+.center{
+    width: 50%;
+    height: 300px;
+    background-color: rgba(36, 180, 173, 0.678);
+    text-align: center;
+}
+.right{
+    width: 25%;
+    height: 300px;
+    background-color: rgba(212, 19, 67, 0.699);
+    text-align: center;
+}
+
+.top{
+height: 30%;
+background-color: rgba(165, 42, 42, 0.87);
+color: white;
+}
+.middle{
+display: flex;
+height: 40%;
+background-color: rgba(28, 218, 123, 0.733);
+color: white;
+}
+.bottom{
+height: 30%;
+background-color: rgba(35, 15, 211, 0.76);
+color: white;
+}
+.left_1{
+width: 50%;
+background-color: rgba(95, 158, 160, 0.733);
+}
+.right_1{
+width: 50%;
+background-color: rgba(0, 0, 0, 0.767);
+}
+.left_middle{
+width: 50%; background-color: rgba(255, 127, 80, 0.664);
+color: white;
+text-align: center;
+}
+.right_middle{
+width: 50%;
+background-color: rgba(143, 188, 143, 0.726);
+color: white;
+text-align: center;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.712);
+    text-align: center;
+    color: white;
+    height: 150px;;
+}

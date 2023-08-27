@@ -1,0 +1,8 @@
+ErrorDocument 404 "<h1>404 Page Not Found</h1>"
+Redirect 301 /cpanel http://cpanel.freewebhosting.com.bd
+
+## Recommeded By FreeWebHosting.Com.BD ##
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault "access plus 5 hours"
+</IfModule>

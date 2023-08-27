@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgba(22, 231, 134, 0.644);
+    height: 100px;
+    text-align: center;
+    color: white;
+}
+.bannerr{
+    background-color: rgba(77, 21, 233, 0.644);
+    height: 200px;
+    color: white;
+    text-align: center;
+}
+article{
+display: flex;
+}
+.left{
+background-color: burlywood;
+height: 250px;
+width: 50%;
+color: white;
+text-align: center;
+}
+.right{
+    background-color: rgb(46, 201, 193);
+    height: 250px;
+    width: 50%;
+    color: white;
+    text-align: center;
+}
+section{
+display: flex;
+height: 250px;
+}
+.feature{
+background-color: blueviolet;
+height: 250;
+width: 33.3%;
+color: white;
+text-align: center;
+}
+.m_feature{
+    background-color: rgba(206, 16, 158, 0.534);
+    height: 250;
+    width: 33.3%;
+    color: white;
+    text-align: center;
+}
+.r_feature{
+    background-color: rgba(95, 64, 236, 0.897);
+    height: 250;
+    width: 33.3%;
+    color: white;
+    text-align: center;
+}
+footer{
+    background-color: rgba(3, 3, 3, 0.623);
+    height: 150px;
+    color: white;
+    text-align: center;
+
+}
